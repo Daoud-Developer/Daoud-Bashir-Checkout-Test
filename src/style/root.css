@@ -1,0 +1,58 @@
+:root {
+    /* Color Root */
+    --color-text-primary: #000034;
+    --color-text-secondary: #4B4E68;
+    --color-text-white: #FFFFFF;
+    /*  Background Root */
+    --background-primary-page:  rgb(90%, 91%, 95%);
+
+    --background-color-Wite: #FFFFFF;
+    --background-color-primary: #EBECF3;
+    --background-color-lte1: #eff0f5;
+    --background-color-lte: rgba(151, 154, 184, 1);
+
+    /*  Border Root */
+    --box-sizing-border-box: border-box;
+    --border-radius-16px : 16px;
+
+    /* Font Root */
+    --font-primary-Poppins : "Poppins";
+    --font-style-normal : normal;
+    --font-weight400 : 400;
+    --font-weight500 : 500;
+    --font-weight600 : 600;
+    --font-weight700 : 700;
+    --font-weight800 : 800;
+
+    /* Font Size Root */
+    --font-size12 : 12px;
+    --font-size14 : 14px;
+    --font-size16 : 16px;
+    --font-size18 : 18px;
+    --font-size20 : 20px;
+    --font-size22 : 22px;
+    --font-size23 : 23px;
+    --font-size24 : 24px;
+    --font-size26 : 26px;
+    --font-size28 : 28px;
+    --font-size30 : 30px;
+    --font-size36 : 36px;
+    --font-size48 : 48px;
+
+    /* Line Height Root */
+    --line-height12 : 12px;
+    --line-height20 : 20px;
+    --line-height16 : 21px;
+    --line-height24 : 24px;
+    --line-height26 : 26px;
+    --line-height27 : 27px;
+    --line-height28 : 28px;
+    --line-height30 : 30px;
+    --line-height32 : 33px;
+    --line-height34 : 34px;
+    --line-height40 : 40px;
+
+    /*Spacing Root */
+    --position-root-absolute : absolute;
+
+}
